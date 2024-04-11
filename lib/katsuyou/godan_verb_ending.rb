@@ -138,6 +138,10 @@ module Katsuyou
       "#{to_あ}せられる"
     end
 
+    def causative_passive_colloquial
+      "#{to_あ}される"
+    end
+
     def causative_passive_polite
       "#{to_あ}せられます"
     end

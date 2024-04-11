@@ -50,6 +50,7 @@ module Katsuyou
         causative_negative_polite: stem.causative_negative_polite + ending.causative_negative_polite,
         # Causative-passive
         causative_passive: stem.causative_passive + ending.causative_passive,
+        causative_passive_colloquial: stem.causative_passive_colloquial + ending.causative_passive_colloquial,
         causative_passive_polite: stem.causative_passive_polite + ending.causative_passive_polite,
         causative_passive_negative: stem.causative_passive_negative + ending.causative_passive_negative,
         causative_passive_negative_polite: stem.causative_passive_negative_polite + ending.causative_passive_negative_polite

@@ -42,6 +42,7 @@ module Katsuyou
     :causative_negative_polite,
     # Causative-passive
     :causative_passive,
+    :causative_passive_colloquial,
     :causative_passive_polite,
     :causative_passive_negative,
     :causative_passive_negative_polite,
