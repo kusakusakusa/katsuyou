@@ -2,6 +2,10 @@ require_relative "verb_ending"
 
 module Katsuyou
   class IchidanVerbEnding < VerbEnding
+    def masu_form
+      ""
+    end
+
     def present_polite
       "ます"
     end

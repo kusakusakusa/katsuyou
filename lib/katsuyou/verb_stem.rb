@@ -18,6 +18,7 @@ module Katsuyou
     end
 
     [
+      :masu_form,
       :present_polite,
       :present_negative,
       :present_negative_polite,
@@ -88,6 +89,7 @@ module Katsuyou
     end
 
     [
+      :masu_form,
       :present_polite,
       :present_negative_polite,
       :past,
@@ -150,6 +152,7 @@ module Katsuyou
     end
 
     [
+      :masu_form,
       :present_polite,
       :present_negative,
       :present_negative_polite,

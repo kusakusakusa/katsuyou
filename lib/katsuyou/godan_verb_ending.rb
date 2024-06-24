@@ -2,6 +2,10 @@ require_relative "verb_ending"
 
 module Katsuyou
   class GodanVerbEnding < VerbEnding
+    def masu_form
+      to_い
+    end
+
     def present_polite
       "#{to_い}ます"
     end
