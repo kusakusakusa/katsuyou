@@ -98,6 +98,10 @@ module Katsuyou
       "られて"
     end
 
+    def passive_conjunctive_masu_form
+      "られ"
+    end
+
     def passive_polite
       "られます"
     end
@@ -116,6 +120,10 @@ module Katsuyou
 
     def causative_conjunctive
       "させて"
+    end
+
+    def passive_conjunctive_masu_form
+      "させ"
     end
 
     def causative_provisional

@@ -34,12 +34,14 @@ module Katsuyou
     # Passive
     :passive,
     :passive_conjunctive,
+    :passive_conjunctive_masu_form,
     :passive_polite,
     :passive_negative,
     :passive_negative_polite,
     # Causative
     :causative,
     :causative_conjunctive,
+    :causative_conjunctive_masu_form,
     :causative_provisional,
     :causative_polite,
     :causative_negative,

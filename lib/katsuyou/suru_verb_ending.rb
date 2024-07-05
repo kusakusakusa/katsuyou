@@ -30,6 +30,10 @@ module Katsuyou
       "れて"
     end
 
+    def passive_conjunctive_masu_form
+      "れ"
+    end
+
     def passive_polite
       "れます"
     end
@@ -48,6 +52,10 @@ module Katsuyou
 
     def causative_conjunctive
       "せて"
+    end
+
+    def causative_conjunctive_masu_form
+      "せ"
     end
 
     def causative_provisional

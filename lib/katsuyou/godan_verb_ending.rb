@@ -114,6 +114,10 @@ module Katsuyou
       "#{to_あ}れて"
     end
 
+    def passive_conjunctive_masu_form
+      "#{to_あ}れ"
+    end
+
     def passive_polite
       "#{to_あ}れます"
     end
@@ -132,6 +136,10 @@ module Katsuyou
 
     def causative_conjunctive
       "#{to_あ}せて"
+    end
+
+    def causative_conjunctive_masu_form
+      "#{to_あ}せ"
     end
 
     def causative_provisional

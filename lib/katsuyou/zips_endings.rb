@@ -42,12 +42,14 @@ module Katsuyou
         # Passive
         passive: stem.passive + ending.passive,
         passive_conjunctive: stem.passive + ending.passive_conjunctive,
+        passive_conjunctive_masu_form: stem.passive + ending.passive_conjunctive_masu_form,
         passive_polite: stem.passive_polite + ending.passive_polite,
         passive_negative: stem.passive_negative + ending.passive_negative,
         passive_negative_polite: stem.passive_negative_polite + ending.passive_negative_polite,
         # Causative
         causative: stem.causative + ending.causative,
         causative_conjunctive: stem.causative + ending.causative_conjunctive,
+        causative_conjunctive_masu_form: stem.causative + ending.causative_conjunctive_masu_form,
         causative_provisional: stem.causative + ending.causative_provisional,
         causative_polite: stem.causative_polite + ending.causative_polite,
         causative_negative: stem.causative_negative + ending.causative_negative,
