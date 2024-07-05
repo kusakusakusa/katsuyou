@@ -126,6 +126,14 @@ module Katsuyou
       "#{to_あ}せる"
     end
 
+    def causative_conjunctive
+      "#{to_あ}せて"
+    end
+
+    def causative_provisional
+      "#{to_あ}せば"
+    end
+
     def causative_polite
       "#{to_あ}せます"
     end

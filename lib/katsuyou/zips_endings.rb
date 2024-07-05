@@ -46,6 +46,8 @@ module Katsuyou
         passive_negative_polite: stem.passive_negative_polite + ending.passive_negative_polite,
         # Causative
         causative: stem.causative + ending.causative,
+        causative_conjunctive: stem.causative + ending.causative_conjunctive,
+        causative_provisional: stem.causative + ending.causative_provisional,
         causative_polite: stem.causative_polite + ending.causative_polite,
         causative_negative: stem.causative_negative + ending.causative_negative,
         causative_negative_polite: stem.causative_negative_polite + ending.causative_negative_polite,

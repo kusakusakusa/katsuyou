@@ -38,6 +38,8 @@ module Katsuyou
     :passive_negative_polite,
     # Causative
     :causative,
+    :causative_conjunctive,
+    :causative_provisional,
     :causative_polite,
     :causative_negative,
     :causative_negative_polite,

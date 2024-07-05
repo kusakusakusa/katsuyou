@@ -42,6 +42,14 @@ module Katsuyou
       "せる"
     end
 
+    def causative_conjunctive
+      "せて"
+    end
+
+    def causative_provisional
+      "せば"
+    end
+
     def causative_polite
       "せます"
     end

@@ -110,6 +110,14 @@ module Katsuyou
       "させる"
     end
 
+    def causative_conjunctive
+      "させて"
+    end
+
+    def causative_provisional
+      "させば"
+    end
+
     def causative_polite
       "させます"
     end
