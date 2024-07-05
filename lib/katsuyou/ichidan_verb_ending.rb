@@ -94,6 +94,10 @@ module Katsuyou
       "られる"
     end
 
+    def passive_conjunctive
+      "られて"
+    end
+
     def passive_polite
       "られます"
     end

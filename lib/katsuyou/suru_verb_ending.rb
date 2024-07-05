@@ -26,6 +26,10 @@ module Katsuyou
       "れる"
     end
 
+    def passive_conjunctive
+      "れて"
+    end
+
     def passive_polite
       "れます"
     end

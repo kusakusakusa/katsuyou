@@ -33,6 +33,7 @@ module Katsuyou
     :potential_negative_polite,
     # Passive
     :passive,
+    :passive_conjunctive,
     :passive_polite,
     :passive_negative,
     :passive_negative_polite,

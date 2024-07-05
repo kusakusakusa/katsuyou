@@ -41,6 +41,7 @@ module Katsuyou
         potential_negative_polite: stem.potential_negative_polite + ending.potential_negative_polite,
         # Passive
         passive: stem.passive + ending.passive,
+        passive_conjunctive: stem.passive + ending.passive_conjunctive,
         passive_polite: stem.passive_polite + ending.passive_polite,
         passive_negative: stem.passive_negative + ending.passive_negative,
         passive_negative_polite: stem.passive_negative_polite + ending.passive_negative_polite,

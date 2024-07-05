@@ -110,6 +110,10 @@ module Katsuyou
       "#{to_あ}れる"
     end
 
+    def passive_conjunctive
+      "#{to_あ}れて"
+    end
+
     def passive_polite
       "#{to_あ}れます"
     end
