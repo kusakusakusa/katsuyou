@@ -39,6 +39,11 @@ module Katsuyou
     :passive_polite,
     :passive_negative,
     :passive_negative_polite,
+    # Desire
+    :desire,
+    :desire_negative,
+    :desire_conditional,
+    :desire_negative_conditional,
     # Causative
     :causative,
     :causative_conjunctive,

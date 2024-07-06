@@ -134,6 +134,22 @@ module Katsuyou
       "#{to_あ}れません"
     end
 
+    def desire
+      "#{to_い}たい"
+    end
+
+    def desire_negative
+      "#{to_い}たくない"
+    end
+
+    def desire_conditional
+      "#{to_い}たければ"
+    end
+
+    def desire_negative_conditional
+      "#{to_い}たくなければ"
+    end
+
     def causative
       "#{to_あ}せる"
     end

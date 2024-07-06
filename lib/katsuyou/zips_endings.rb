@@ -47,6 +47,11 @@ module Katsuyou
         passive_polite: stem.passive_polite + ending.passive_polite,
         passive_negative: stem.passive_negative + ending.passive_negative,
         passive_negative_polite: stem.passive_negative_polite + ending.passive_negative_polite,
+        # Desire
+        desire: stem.masu_form + ending.desire,
+        desire_negative: stem.masu_form + ending.desire_negative,
+        desire_conditional: stem.masu_form + ending.desire_conditional,
+        desire_negative_conditional: stem.masu_form + ending.desire_negative_conditional,
         # Causative
         causative: stem.causative + ending.causative,
         causative_conjunctive: stem.causative + ending.causative_conjunctive,

@@ -118,6 +118,22 @@ module Katsuyou
       "られません"
     end
 
+    def desire
+      "たい"
+    end
+
+    def desire_negative
+      "たくない"
+    end
+
+    def desire_conditional
+      "たければ"
+    end
+
+    def desire_negative_conditional
+      "たくなければ"
+    end
+
     def causative
       "させる"
     end
@@ -126,7 +142,7 @@ module Katsuyou
       "させて"
     end
 
-    def passive_conjunctive_masu_form
+    def causative_conjunctive_masu_form
       "させ"
     end
 
