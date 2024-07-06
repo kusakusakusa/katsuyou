@@ -3,7 +3,7 @@ require_relative "ichidan_verb_ending"
 module Katsuyou
   class SuruVerbEnding < IchidanVerbEnding
     def masu_form
-      "し"
+      ""
     end
 
     def potential

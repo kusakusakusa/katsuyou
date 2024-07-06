@@ -9,7 +9,7 @@ module Katsuyou
       ending = VerbEnding.for(conjugation_type)
 
       {
-        masu_form: stem.present_polite + ending.masu_form,
+        masu_form: stem.masu_form + ending.masu_form,
         # Present
         present: text,
         present_polite: stem.present_polite + ending.present_polite,
