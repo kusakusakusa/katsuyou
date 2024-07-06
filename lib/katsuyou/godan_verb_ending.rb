@@ -122,16 +122,32 @@ module Katsuyou
       "#{to_あ}れ"
     end
 
+    def passive_conjunctive_past
+      "#{to_あ}れた"
+    end
+
     def passive_polite
       "#{to_あ}れます"
+    end
+
+    def passive_polite_past
+      "#{to_あ}れました"
     end
 
     def passive_negative
       "#{to_あ}れない"
     end
 
+    def passive_negative_past
+      "#{to_あ}れなかった"
+    end
+
     def passive_negative_polite
       "#{to_あ}れません"
+    end
+
+    def passive_negative_polite_past
+      "#{to_あ}れませんでした"
     end
 
     def desire

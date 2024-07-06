@@ -38,16 +38,32 @@ module Katsuyou
       "れ"
     end
 
+    def passive_conjunctive_past
+      "れた"
+    end
+
     def passive_polite
       "れます"
+    end
+
+    def passive_polite_past
+      "れました"
     end
 
     def passive_negative
       "れない"
     end
 
+    def passive_negative_past
+      "れなかった"
+    end
+
     def passive_negative_polite
       "れません"
+    end
+
+    def passive_negative_polite_past
+      "れませんでした"
     end
 
     def causative

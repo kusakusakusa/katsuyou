@@ -44,9 +44,13 @@ module Katsuyou
         passive: stem.passive + ending.passive,
         passive_conjunctive: stem.passive + ending.passive_conjunctive,
         passive_conjunctive_masu_form: stem.passive + ending.passive_conjunctive_masu_form,
+        passive_conjunctive_past: stem.passive + ending.passive_conjunctive_past,
         passive_polite: stem.passive_polite + ending.passive_polite,
+        passive_polite_past: stem.passive_polite + ending.passive_polite_past,
         passive_negative: stem.passive_negative + ending.passive_negative,
+        passive_negative_past: stem.passive_negative + ending.passive_negative_past,
         passive_negative_polite: stem.passive_negative_polite + ending.passive_negative_polite,
+        passive_negative_polite_past: stem.passive_negative_polite + ending.passive_negative_polite_past,
         # Desire
         desire: stem.masu_form + ending.desire,
         desire_negative: stem.masu_form + ending.desire_negative,

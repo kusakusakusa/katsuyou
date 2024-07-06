@@ -106,16 +106,32 @@ module Katsuyou
       "られ"
     end
 
+    def passive_conjunctive_past
+      "られた"
+    end
+
     def passive_polite
       "られます"
+    end
+
+    def passive_polite_past
+      "られました"
     end
 
     def passive_negative
       "られない"
     end
 
+    def passive_negative_past
+      "られなかった"
+    end
+
     def passive_negative_polite
       "られません"
+    end
+
+    def passive_negative_polite_past
+      "られませんでした"
     end
 
     def desire
