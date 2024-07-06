@@ -5,5 +5,9 @@ module Katsuyou
     def imperative
       "い"
     end
+
+    def nu_form
+      "ぬ"
+    end
   end
 end

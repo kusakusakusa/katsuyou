@@ -19,6 +19,7 @@ module Katsuyou
 
     [
       :masu_form,
+      :nu_form,
       :present_polite,
       :present_negative,
       :present_negative_polite,
@@ -108,6 +109,14 @@ module Katsuyou
     end
 
     [
+      :nu_form
+    ].each do |conjugated_form|
+      define_method conjugated_form do
+        maybe_replace(super(), "こ")
+      end
+    end
+
+    [
       :present_negative,
       :past_negative,
       :conjunctive_negative,
@@ -173,6 +182,14 @@ module Katsuyou
     ].each do |conjugated_form|
       define_method conjugated_form do
         maybe_replace(super(), "し")
+      end
+    end
+
+    [
+      :nu_form
+    ].each do |conjugated_form|
+      define_method conjugated_form do
+        maybe_replace(super(), "せ")
       end
     end
 

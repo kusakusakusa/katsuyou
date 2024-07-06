@@ -6,6 +6,10 @@ module Katsuyou
       ""
     end
 
+    def nu_form
+      "ぬ"
+    end
+
     def present_polite
       "ます"
     end
