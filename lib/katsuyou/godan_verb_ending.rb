@@ -202,6 +202,10 @@ module Katsuyou
       "#{to_あ}される"
     end
 
+    def causative_passive_colloquial_conjunctive
+      "#{to_あ}されて"
+    end
+
     def causative_passive_polite
       "#{to_あ}せられます"
     end

@@ -56,6 +56,7 @@ module Katsuyou
       :causative_negative_polite,
       :causative_passive,
       :causative_passive_colloquial,
+      :causative_passive_colloquial_conjunctive,
       :causative_passive_polite,
       :causative_passive_negative,
       :causative_passive_negative_polite
@@ -141,6 +142,7 @@ module Katsuyou
       :causative_negative_polite,
       :causative_passive,
       :causative_passive_colloquial,
+      :causative_passive_colloquial_conjunctive,
       :causative_passive_polite,
       :causative_passive_negative,
       :causative_passive_negative_polite
@@ -223,6 +225,7 @@ module Katsuyou
       :causative_negative_polite,
       :causative_passive,
       :causative_passive_colloquial,
+      :causative_passive_colloquial_conjunctive,
       :causative_passive_polite,
       :causative_passive_negative,
       :causative_passive_negative_polite

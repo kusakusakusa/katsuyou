@@ -102,6 +102,10 @@ module Katsuyou
       "せられる"
     end
 
+    def causative_passive_colloquial_conjunctive
+      "せられて"
+    end
+
     def causative_passive_polite
       "せられます"
     end

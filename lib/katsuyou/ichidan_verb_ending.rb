@@ -186,6 +186,10 @@ module Katsuyou
       "させられる"
     end
 
+    def causative_passive_colloquial_conjunctive
+      "させられて"
+    end
+
     def causative_passive_polite
       "させられます"
     end
