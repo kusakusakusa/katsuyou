@@ -22,6 +22,14 @@ module Katsuyou
       end
     end
 
+    def present_negative_abbreviated
+      if code == "v5r-i"
+        "ん"
+      else
+        "#{to_あ}ん"
+      end
+    end
+
     def present_negative_polite
       "#{to_い}ません"
     end

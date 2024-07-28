@@ -15,6 +15,7 @@ module Katsuyou
         present: text,
         present_polite: stem.present_polite + ending.present_polite,
         present_negative: stem.present_negative + ending.present_negative,
+        present_negative_abbreviated: stem.present_negative_abbreviated + ending.present_negative_abbreviated,
         present_negative_polite: stem.present_negative_polite + ending.present_negative_polite,
         # Past
         past: stem.past + ending.past,

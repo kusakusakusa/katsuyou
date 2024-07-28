@@ -22,6 +22,10 @@ module Katsuyou
       "ない"
     end
 
+    def present_negative_abbreviated
+      "ん"
+    end
+
     def potential_negative_polite
       "ません"
     end

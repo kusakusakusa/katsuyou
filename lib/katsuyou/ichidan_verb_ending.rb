@@ -18,6 +18,10 @@ module Katsuyou
       "ない"
     end
 
+    def present_negative_abbreviated
+      "ん"
+    end
+
     def present_negative_polite
       "ません"
     end

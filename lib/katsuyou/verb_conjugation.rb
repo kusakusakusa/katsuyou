@@ -7,6 +7,7 @@ module Katsuyou
     :present,
     :present_polite,
     :present_negative,
+    :present_negative_abbreviated,
     :present_negative_polite,
     # Past
     :past,
