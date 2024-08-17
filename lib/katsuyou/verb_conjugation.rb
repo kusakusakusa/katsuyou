@@ -3,6 +3,7 @@ module Katsuyou
     :conjugation_type,
     :masu_form,
     :nu_form,
+    :n_form,
     # Present
     :present,
     :present_polite,

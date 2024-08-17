@@ -9,5 +9,9 @@ module Katsuyou
     def nu_form
       "ぬ"
     end
+
+    def n_form
+      "ん"
+    end
   end
 end

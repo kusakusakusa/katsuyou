@@ -7,7 +7,11 @@ module Katsuyou
     end
 
     def nu_form
-      "ぬ"
+      "せぬ"
+    end
+
+    def n_form
+      "せん"
     end
 
     def potential

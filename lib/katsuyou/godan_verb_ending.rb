@@ -10,6 +10,10 @@ module Katsuyou
       "#{to_あ}ぬ"
     end
 
+    def n_form
+      "#{to_あ}ん"
+    end
+
     def present_polite
       "#{to_い}ます"
     end
