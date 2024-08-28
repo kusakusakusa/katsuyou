@@ -4,6 +4,7 @@ module Katsuyou
     :masu_form,
     :nu_form,
     :n_form,
+    :chi_form,
     # Present
     :present,
     :present_polite,

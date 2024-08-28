@@ -10,6 +10,10 @@ module Katsuyou
       "#{to_あ}ぬ"
     end
 
+    def chi_form
+      "#{conjunctive[0...-1]}ち"
+    end
+
     def n_form
       "#{to_あ}ん"
     end

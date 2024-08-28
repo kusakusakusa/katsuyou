@@ -12,6 +12,7 @@ module Katsuyou
         masu_form: stem.masu_form + ending.masu_form,
         nu_form: stem.nu_form + ending.nu_form,
         n_form: stem.n_form + ending.n_form,
+        chi_form: stem.chi_form + ending.chi_form,
         # Present
         present: text,
         present_polite: stem.present_polite + ending.present_polite,
